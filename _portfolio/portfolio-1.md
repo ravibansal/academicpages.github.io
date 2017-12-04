@@ -4,7 +4,7 @@ excerpt: "Used encoderdecoder model with LSTM units to encode the temporal seque
 collection: portfolio
 ---
 
-* Code: https://github.com/ravibansal/VideoRetrieval
+* Code: [github](https://github.com/ravibansal/VideoRetrieval)
 * Slides: https://docs.google.com/presentation/d/1OmXSTaqDeRyNgCnSBmpUOxt29c7FzxEh-fa0NRvD37o/edit?usp=sharing
 * Report: https://goo.gl/yHuqwF
 * Technologies: Python, Tensorflow
