@@ -2,10 +2,10 @@
 main:
     
   - title: "Thesis"
-    url: /thesis/
+    url: /portfolio/
     
   - title: "Experience"
-    url: /experience/
+    url: /cv/
     
   - title: "Projects"
-    url: /projects/
+    url: /publications/
