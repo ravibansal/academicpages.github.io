@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Visual-content based Video Retrieval on Natural Language Query<br/><img src='/images/500x300.png'>"
+title: "Visual-content based Video Retrieval on Natural Language Query"
+excerpt: "Used encoderdecoder model with LSTM units to encode the temporal sequence of frames and generated a fixed length caption for every video. Captions are embedded using skip-thoughts vector for query time. Pre-trained image recognition model was used to extract features from frames.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Code: https://github.com/ravibansal/VideoRetrieval
+* Slides: https://docs.google.com/presentation/d/1OmXSTaqDeRyNgCnSBmpUOxt29c7FzxEh-fa0NRvD37o/edit?usp=sharing
+* Report: https://goo.gl/yHuqwF
+* Technologies: Python, Tensorflow
