@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 * Code: [github](https://github.com/ravibansal/VideoRetrieval)
-* Slides: [Google Slides] (https://docs.google.com/presentation/d/1OmXSTaqDeRyNgCnSBmpUOxt29c7FzxEh-fa0NRvD37o/edit?usp=sharing)
-* Report: [Drive] (https://goo.gl/yHuqwF)
+* Slides: [Google Slides](https://docs.google.com/presentation/d/1OmXSTaqDeRyNgCnSBmpUOxt29c7FzxEh-fa0NRvD37o/edit?usp=sharing)
+* Report: [Drive](https://goo.gl/yHuqwF)
 * Technologies: Python, Tensorflow
