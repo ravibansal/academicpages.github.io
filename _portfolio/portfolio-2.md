@@ -1,7 +1,7 @@
 ---
 title: "QoS-based Resource Management for Workload Mobility in Hyper-Converged Architecture"
 excerpt: "Designed a resource allocation policy for virtual
-machine placement and migration in hyper-converged cloud architecture maintaining the QoS of the system. <br/><img src='/images/500x300.png'>"
+machine placement and migration in hyper-converged cloud architecture maintaining the QoS of the system. <br/>"
 collection: portfolio
 ---
 * Code: [gitlab](https://gitlab.com/ravi220644/hyperarch)
